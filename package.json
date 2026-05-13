@@ -1,9 +1,11 @@
 {
   "name": "@wissem_hajbi/pi-nointl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "type": "module",
-  "keywords": ["pi-package"],
+  "keywords": [
+    "pi-package"
+  ],
   "description": "pi package for scanning Next.js projects for untranslated strings with nointl",
   "dependencies": {
     "@wissem_hajbi/nointl": "^1.0.14"
@@ -13,6 +15,8 @@
     "typebox": "*"
   },
   "pi": {
-    "extensions": ["./index.ts"]
+    "extensions": [
+      "./index.ts"
+    ]
   }
 }

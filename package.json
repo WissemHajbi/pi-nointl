@@ -15,6 +15,7 @@
     "typebox": "*"
   },
   "pi": {
+    "image": "https://raw.githubusercontent.com/WissemHajbi/pi-nointl/main/assets/cover.png",
     "extensions": [
       "./index.ts"
     ]
